@@ -9,7 +9,7 @@ charset-normalizer==2.0.3
 click==8.0.1
 cryptography==3.4.7
 Django
-djangorestframework==3.12.4
+djangorestframework
 furl==2.1.2
 googleapis-common-protos==1.53.0
 grpcio==1.38.1
